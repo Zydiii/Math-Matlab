@@ -1,3 +1,3 @@
 # README
-涓昏鍙傝�冭タ鍖楀伐涓氬ぇ瀛﹁倴鍗庡媷鑰佸笀鐨勮绋嬶細
-[鏁板寤烘ā](https://www.icourse163.org/learn/NWPU-1003545127?tid=1003771134#/learn/announce)
+主要参考西北工业大学肖华勇老师的课程：
+[数学建模](https://www.icourse163.org/learn/NWPU-1003545127?tid=1003771134#/learn/announce)
